@@ -1,0 +1,9 @@
+Create a Seed AI library that implements the my_ai_topology_package, which includes functions for creating and manipulating neural network topologies. The library should also include functions for capturing and utilizing internet data as training data, and an AI interface that allows an AI to call the functions and train child AI.
+
+The neural network topology functions should include options for creating and modifying the number of layers, the number of neurons per layer, and the activation functions used. Additionally, the library should include options for optimizing the topology for a given task or data set using techniques such as genetic algorithms or gradient descent.
+
+The functions for capturing and utilizing internet data should be designed to scrape data from a variety of sources, including websites, social media platforms, and other online resources. The library should include functions for processing and formatting the data, such as converting it to a usable format for training neural networks, and filtering out irrelevant or low-quality data.
+
+The AI interface should be designed to be user-friendly and easy to use, with options for specifying the desired network topology and training parameters. It should also include functionality for monitoring the progress of the training process, such as displaying training accuracy and loss over time. Additionally, the interface should include functions for saving and loading trained models for later use.
+
+Overall, the library should be designed with flexibility and scalability in mind, allowing users to easily create and train custom neural networks for a wide variety of tasks and applications. The library should be implemented in Python, and should be well-documented with clear and concise function descriptions and usage examples.
